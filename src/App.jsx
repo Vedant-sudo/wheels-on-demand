@@ -12,6 +12,7 @@ import DamagePenalties from "./components/DamagePenalties";
 import AvailableCities from "./components/AvaliableCities";
 import Home from "./components/Home";
 import LoginOrSignup from "./components/LoginOrSignup";
+import ContactUs from "./components/ContactUs";
 const App = () => {
   return (
     <Router>
@@ -32,6 +33,7 @@ const App = () => {
             <Route path="/available-cities" element={<AvailableCities />} />
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<LoginOrSignup />} />
+            <Route path="/contact" element={<ContactUs />} />
           </Routes>
         </div>
 

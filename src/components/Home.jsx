@@ -4,7 +4,7 @@ import AvaliableOffers from "./AvaliableOffers";
 import BackgroundWithLogo from "./BackgroundWithLogo";
 import FAQs from "./FAQs";
 export default function Home() {
-  const [darkMode, setDarkMode] = useState(
+  const [darkMode] = useState(
     localStorage.getItem("theme") === "dark"
   );
 
@@ -23,8 +23,8 @@ export default function Home() {
     <div className="container mx-auto">
       {/* Dark Mode toggle button can be added in Navbar to toggle dark mode */}
       <BackgroundWithLogo
-        backgroundImage="/images/home/bg.avif" // Add path to background image
-        logoImage="/images/home/wod.png" // Add path to logo image
+        backgroundImage="/images/home/bg.avif"
+        logoImage="/images/home/wod.png" 
       />
       <br/><br/><br/>
       <ReviewsCarousel /><br/><br/><br/>

@@ -37,12 +37,14 @@ export default function Navbar() {
         {/* Right Side Buttons */}
         <div className="flex items-center space-x-4">
           {/* Dark Mode Toggle */}
-          <button
-            onClick={() => setDarkMode(!darkMode)}
-            className="focus:outline-none"
-          >
+          <button onClick={() => setDarkMode(!darkMode)} className="focus:outline-none">
             {darkMode ? <Sun size={24} /> : <Moon size={24} />}
           </button>
+
+          {/* Login / Signup Button */}
+          <Link to="/login" className="bg-white text-blue-600 px-4 py-2 rounded-lg font-semibold hover:bg-gray-200 dark:bg-gray-700 dark:text-white dark:hover:bg-gray-600">
+            Login / Signup
+          </Link>
 
           {/* Mobile Menu Button */}
           <button className="md:hidden focus:outline-none" onClick={() => setIsOpen(!isOpen)}>
@@ -52,15 +54,16 @@ export default function Navbar() {
       </div>
 
       {/* Mobile Menu */}
-      <div
-        className={`md:hidden transition-all duration-300 ${isOpen ? "max-h-60" : "max-h-0 overflow-hidden"}`}
-      >
+      <div className={`md:hidden transition-all duration-300 ${isOpen ? "max-h-60" : "max-h-0 overflow-hidden"}`}>
         <ul className="bg-blue-700 dark:bg-gray-800 text-center py-2 space-y-2">
           <li><Link to="/" className="block py-2 hover:bg-blue-800 dark:hover:bg-gray-700">Home</Link></li>
           <li><Link to="/cars" className="block py-2 hover:bg-blue-800 dark:hover:bg-gray-700">Cars</Link></li>
           <li><Link to="/about" className="block py-2 hover:bg-blue-800 dark:hover:bg-gray-700">About</Link></li>
           <li><Link to="/contact" className="block py-2 hover:bg-blue-800 dark:hover:bg-gray-700">Contact</Link></li>
           <li><Link to="/privacy-policy" className="block py-2 hover:bg-blue-800 dark:hover:bg-gray-700">Privacy Policy</Link></li>
+          <li><Link to="/login" className="block py-2 bg-white text-blue-600 font-semibold hover:bg-gray-200 dark:bg-gray-700 dark:text-white dark:hover:bg-gray-600">
+            Login / Signup
+          </Link></li>
         </ul>
       </div>
     </nav>

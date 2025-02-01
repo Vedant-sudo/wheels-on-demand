@@ -11,6 +11,7 @@ import TermsAndConditions from "./components/TermsAndConditions";
 import DamagePenalties from "./components/DamagePenalties";
 import AvailableCities from "./components/AvaliableCities";
 import Home from "./components/Home";
+import LoginOrSignup from "./components/LoginOrSignup";
 const App = () => {
   return (
     <Router>
@@ -23,7 +24,6 @@ const App = () => {
         <div className="flex-grow">
           <Routes>
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-            {/* Add more routes here */}
             <Route path="/rental-agreement" element={<RentalAgreement />} />
             <Route path="/refund-cancellation" element={<RefundCancellation />} />
             <Route path="/heading-outstations" element={<HeadingOutstations />} /> 
@@ -31,6 +31,7 @@ const App = () => {
             <Route path="/damage-penalties" element={<DamagePenalties />} />
             <Route path="/available-cities" element={<AvailableCities />} />
             <Route path="/" element={<Home />} />
+            <Route path="/login" element={<LoginOrSignup />} />
           </Routes>
         </div>
 

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import ReviewsCarousel from "./ReviewsCarousel";
 import AvaliableOffers from "./AvaliableOffers";
 import BackgroundWithLogo from "./BackgroundWithLogo";
-
+import FAQs from "./FAQs";
 export default function Home() {
   const [darkMode, setDarkMode] = useState(
     localStorage.getItem("theme") === "dark"
@@ -29,6 +29,7 @@ export default function Home() {
       <br/><br/><br/>
       <ReviewsCarousel /><br/><br/><br/>
       <AvaliableOffers /><br/><br/><br/>
+      <FAQs /> <br/><br/><br/>
     </div>
   );
 }

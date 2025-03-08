@@ -1,0 +1,474 @@
+2025-02-07 00:22:38,346 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-02-07 00:23:04,413 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vehiclerental:demo:0.0.1-SNAPSHOT @ C:\Users\vedan\trash\backend-2\demo\pom.xml.
+2025-02-07 00:23:07,776 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 00:23:07,799 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 00:23:07,806 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 00:23:42,077 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-07 00:24:04,144 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-02-07 00:24:04,802 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vehiclerental:demo:0.0.1-SNAPSHOT @ C:\Users\vedan\trash\backend-2\demo\pom.xml.
+2025-02-07 00:24:05,492 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2025-02-07 00:24:05,494 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2025-02-07 00:24:05,494 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2025-02-07 00:24:05,495 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2025-02-07 00:24:05,496 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/test/resources
+2025-02-07 00:24:06,064 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-02-07 00:24:07,728 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 00:24:07,741 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 00:24:07,745 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 00:24:43,913 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 00:24:43,918 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 00:24:43,923 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 00:25:57,631 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-02-07 00:25:57,957 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vehiclerental:demo:0.0.1-SNAPSHOT @ C:\Users\vedan\trash\backend-2\demo\pom.xml.
+2025-02-07 00:25:58,496 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2025-02-07 00:25:58,497 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2025-02-07 00:25:58,497 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2025-02-07 00:25:58,498 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2025-02-07 00:25:58,498 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/test/resources
+2025-02-07 00:25:58,714 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-02-07 00:25:59,266 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 00:25:59,277 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 00:25:59,281 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 00:26:37,290 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [364])
+2025-02-07 00:26:37,291 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-02-07 00:26:37,292 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-02-07 00:26:37,292 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-02-07 00:26:37,292 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-02-07 00:26:37,292 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-02-07 00:26:37,292 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-02-07 00:26:37,292 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-02-07 00:26:37,292 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-02-07 00:26:37,293 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-02-07 00:26:37,293 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-02-07 00:26:37,293 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-02-07 00:26:37,293 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-02-07 00:26:37,293 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-02-07 00:26:37,293 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-02-07 00:26:37,293 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-02-07 00:26:37,293 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-02-07 00:26:37,293 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-02-07 00:26:37,293 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-02-07 00:26:37,294 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-02-07 00:26:37,294 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-02-07 00:26:37,294 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-02-07 00:26:37,294 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-02-07 00:26:37,294 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-02-07 00:26:37,294 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-02-07 00:26:37,294 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-02-07 00:26:37,294 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-02-07 00:26:37,294 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-02-07 00:26:37,295 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-02-07 00:26:37,295 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-02-07 00:26:37,295 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-02-07 00:26:37,295 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-02-07 00:26:37,295 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-02-07 00:26:37,295 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-02-07 00:26:37,295 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-02-07 00:26:37,295 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-02-07 00:26:37,296 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-02-07 00:26:37,296 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-02-07 00:26:37,296 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-02-07 00:26:37,296 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-02-07 00:26:37,296 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-02-07 00:26:37,296 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-02-07 00:26:37,296 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-02-07 00:26:37,296 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-02-07 00:26:37,297 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-02-07 00:26:37,298 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [29])
+2025-02-07 00:26:37,298 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\com.google.guava_33.3.1.jre.jar
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [615])
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\slf4j.api_2.0.16.jar
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [45])
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [41])
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\jakarta.annotation-api_1.3.5.jar
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-02-07 00:26:37,299 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2025-02-07 00:26:37,300 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-02-07 00:26:37,303 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\vedan\trash\backend-2\demo":
+2025-02-07 00:26:37,304 [Worker-26: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2025-02-07 00:26:39,312 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 00:26:39,314 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 00:26:39,316 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 00:26:48,972 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [364])
+2025-02-07 00:26:48,972 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-02-07 00:26:48,972 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-02-07 00:26:48,972 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-02-07 00:26:48,972 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-02-07 00:26:48,973 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-02-07 00:26:48,973 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-02-07 00:26:48,973 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-02-07 00:26:48,973 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-02-07 00:26:48,973 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-02-07 00:26:48,973 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-02-07 00:26:48,973 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-02-07 00:26:48,973 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-02-07 00:26:48,973 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-02-07 00:26:48,973 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-02-07 00:26:48,974 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-02-07 00:26:48,974 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-02-07 00:26:48,974 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-02-07 00:26:48,974 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-02-07 00:26:48,974 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-02-07 00:26:48,974 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-02-07 00:26:48,975 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-02-07 00:26:48,976 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-02-07 00:26:48,976 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-02-07 00:26:48,976 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-02-07 00:26:48,976 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-02-07 00:26:48,976 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-02-07 00:26:48,976 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-02-07 00:26:48,976 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-02-07 00:26:48,976 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-02-07 00:26:48,976 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-02-07 00:26:48,977 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-02-07 00:26:48,977 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-02-07 00:26:48,977 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-02-07 00:26:48,977 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-02-07 00:26:48,977 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-02-07 00:26:48,977 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-02-07 00:26:48,977 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-02-07 00:26:48,977 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-02-07 00:26:48,977 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-02-07 00:26:48,977 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-02-07 00:26:48,978 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-02-07 00:26:48,978 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-02-07 00:26:48,978 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-02-07 00:26:48,978 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-02-07 00:26:48,978 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [29])
+2025-02-07 00:26:48,978 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\com.google.guava_33.3.1.jre.jar
+2025-02-07 00:26:48,978 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [615])
+2025-02-07 00:26:48,978 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\slf4j.api_2.0.16.jar
+2025-02-07 00:26:48,978 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [45])
+2025-02-07 00:26:48,979 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-02-07 00:26:48,979 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [41])
+2025-02-07 00:26:48,979 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\jakarta.annotation-api_1.3.5.jar
+2025-02-07 00:26:48,979 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-02-07 00:26:48,979 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2025-02-07 00:26:48,979 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-02-07 00:26:48,979 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-02-07 00:26:48,979 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2025-02-07 00:26:48,979 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-02-07 00:26:48,980 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\vedan\trash\backend-2\demo":
+2025-02-07 00:26:48,980 [Worker-35: Launching Executing install in C__Users_vedan_trash_backend-2_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always install
+2025-02-07 14:06:54,350 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-07 14:21:37,009 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 14:21:37,039 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 14:21:37,050 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 14:22:05,730 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 14:22:05,734 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 14:22:05,738 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 15:18:54,869 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 15:18:54,909 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 15:18:54,916 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 18:45:56,791 [Worker-18: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 18:45:56,869 [Worker-18: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 18:45:56,876 [Worker-18: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:18:26,339 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:18:26,369 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:18:26,378 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:22:22,158 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:22:22,166 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:22:22,172 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:22:40,716 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:22:40,721 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:22:40,726 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:26:52,070 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:26:52,074 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:26:52,078 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:26:53,483 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:26:53,486 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:26:53,490 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:27:03,258 [Worker-32: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:27:03,262 [Worker-32: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:27:03,265 [Worker-32: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:27:46,719 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:27:46,723 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:27:46,726 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:28:57,709 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:28:57,717 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:28:57,722 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:29:04,692 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:29:04,695 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:29:04,698 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:29:26,626 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:29:26,631 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:29:26,633 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:31:36,241 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:31:36,246 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:31:36,249 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:31:44,970 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:31:44,983 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:31:44,991 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:37:07,810 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:37:07,815 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:37:07,817 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:38:32,016 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:38:32,024 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:38:32,027 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:40:05,246 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:40:05,253 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:40:05,256 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:40:19,079 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:40:19,083 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:40:19,086 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:51:34,995 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:51:34,999 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:51:35,003 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:51:46,000 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:51:46,005 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:51:46,009 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:52:03,621 [Worker-25: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:52:03,625 [Worker-25: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:52:03,628 [Worker-25: Launching demo - DemoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:53:39,391 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:53:39,395 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:53:39,397 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:53:57,753 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:53:57,757 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:53:57,759 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:54:32,987 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:54:32,993 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:54:32,995 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:54:42,954 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:54:42,958 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:54:42,960 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-07 22:55:39,748 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-07 22:55:39,751 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-07 22:55:39,753 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-08 08:43:41,200 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-08 08:46:29,661 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-08 08:46:29,694 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-08 08:46:29,701 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-08 08:47:55,593 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-08 08:47:55,598 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-08 08:47:55,602 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-08 08:51:21,497 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-08 08:51:21,504 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-08 08:51:21,508 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-08 09:08:43,044 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-08 09:08:43,053 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-08 09:08:43,058 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-08 09:09:01,565 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-08 09:09:01,571 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-08 09:09:01,575 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-08 09:09:39,821 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-08 09:09:39,825 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-08 09:09:39,828 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-08 09:14:42,839 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-08 09:14:42,844 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-08 09:14:42,849 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-08 09:14:53,923 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-08 09:14:53,927 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-08 09:14:53,931 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-10 15:38:43,632 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-10 17:14:43,375 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-10 17:14:49,090 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-10 17:14:49,109 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-10 17:14:49,115 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-10 17:16:43,071 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [364])
+2025-02-10 17:16:43,073 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-02-10 17:16:43,074 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-02-10 17:16:43,074 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-02-10 17:16:43,074 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-02-10 17:16:43,075 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-02-10 17:16:43,075 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-02-10 17:16:43,075 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-02-10 17:16:43,075 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-02-10 17:16:43,075 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-02-10 17:16:43,075 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-02-10 17:16:43,076 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-02-10 17:16:43,076 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-02-10 17:16:43,076 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-02-10 17:16:43,076 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-02-10 17:16:43,076 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-02-10 17:16:43,076 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-02-10 17:16:43,077 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-02-10 17:16:43,077 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-02-10 17:16:43,077 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-02-10 17:16:43,077 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-02-10 17:16:43,077 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-02-10 17:16:43,078 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-02-10 17:16:43,078 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-02-10 17:16:43,078 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-02-10 17:16:43,078 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-02-10 17:16:43,078 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-02-10 17:16:43,078 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-02-10 17:16:43,079 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-02-10 17:16:43,079 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-02-10 17:16:43,079 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-02-10 17:16:43,079 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-02-10 17:16:43,080 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-02-10 17:16:43,080 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-02-10 17:16:43,080 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-02-10 17:16:43,081 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-02-10 17:16:43,081 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-02-10 17:16:43,081 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-02-10 17:16:43,082 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-02-10 17:16:43,082 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-02-10 17:16:43,082 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-02-10 17:16:43,082 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-02-10 17:16:43,082 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-02-10 17:16:43,083 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-02-10 17:16:43,083 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-02-10 17:16:43,084 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [29])
+2025-02-10 17:16:43,084 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\com.google.guava_33.3.1.jre.jar
+2025-02-10 17:16:43,085 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [615])
+2025-02-10 17:16:43,085 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\slf4j.api_2.0.16.jar
+2025-02-10 17:16:43,085 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [45])
+2025-02-10 17:16:43,085 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-02-10 17:16:43,085 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [41])
+2025-02-10 17:16:43,086 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\jakarta.annotation-api_1.3.5.jar
+2025-02-10 17:16:43,086 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-02-10 17:16:43,086 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2025-02-10 17:16:43,086 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-02-10 17:16:43,086 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-02-10 17:16:43,086 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2025-02-10 17:16:43,086 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-02-10 17:16:43,090 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\vedan\trash\backend-2\demo":
+2025-02-10 17:16:43,091 [Worker-5: Launching Executing clean in C__Users_vedan_trash_backend-2_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2025-02-10 17:16:46,002 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-10 17:16:46,006 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-10 17:16:46,011 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-10 17:16:51,780 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2025-02-10 17:17:03,243 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [364])
+2025-02-10 17:17:03,244 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2025-02-10 17:17:03,244 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2025-02-10 17:17:03,244 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2025-02-10 17:17:03,244 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2025-02-10 17:17:03,244 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2025-02-10 17:17:03,244 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2025-02-10 17:17:03,245 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2025-02-10 17:17:03,245 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2025-02-10 17:17:03,245 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2025-02-10 17:17:03,245 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2025-02-10 17:17:03,245 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2025-02-10 17:17:03,245 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2025-02-10 17:17:03,245 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2025-02-10 17:17:03,246 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2025-02-10 17:17:03,246 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2025-02-10 17:17:03,246 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2025-02-10 17:17:03,246 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2025-02-10 17:17:03,247 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-02-10 17:17:03,247 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2025-02-10 17:17:03,247 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2025-02-10 17:17:03,247 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2025-02-10 17:17:03,248 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2025-02-10 17:17:03,248 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2025-02-10 17:17:03,248 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2025-02-10 17:17:03,249 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-02-10 17:17:03,249 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2025-02-10 17:17:03,249 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2025-02-10 17:17:03,249 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2025-02-10 17:17:03,249 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2025-02-10 17:17:03,249 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-02-10 17:17:03,250 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-02-10 17:17:03,250 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2025-02-10 17:17:03,250 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2025-02-10 17:17:03,250 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2025-02-10 17:17:03,250 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2025-02-10 17:17:03,251 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2025-02-10 17:17:03,251 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2025-02-10 17:17:03,251 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2025-02-10 17:17:03,251 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2025-02-10 17:17:03,252 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2025-02-10 17:17:03,252 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2025-02-10 17:17:03,252 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2025-02-10 17:17:03,252 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2025-02-10 17:17:03,252 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2025-02-10 17:17:03,252 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.1.jre [29])
+2025-02-10 17:17:03,253 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\com.google.guava_33.3.1.jre.jar
+2025-02-10 17:17:03,253 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [615])
+2025-02-10 17:17:03,253 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\slf4j.api_2.0.16.jar
+2025-02-10 17:17:03,253 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [45])
+2025-02-10 17:17:03,253 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-02-10 17:17:03,253 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [41])
+2025-02-10 17:17:03,254 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\jakarta.annotation-api_1.3.5.jar
+2025-02-10 17:17:03,254 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2025-02-10 17:17:03,254 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.apache.commons.cli_1.9.0.jar
+2025-02-10 17:17:03,254 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2025-02-10 17:17:03,254 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-02-10 17:17:03,254 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [30])
+2025-02-10 17:17:03,254 [Worker-16: Launching demo] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\sts-4.27.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-02-10 17:17:03,256 [Worker-16: Launching demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\vedan\trash\backend-2\demo":
+2025-02-10 17:17:03,256 [Worker-16: Launching demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean compile
+2025-02-10 17:18:23,616 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-10 17:18:23,632 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-10 17:18:23,640 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-11 08:09:39,894 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-11 08:10:23,624 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating DemoApplicationTests from maven configuration
+2025-02-11 08:10:25,499 [main] ERROR o.e.m.jdt.internal.UnitTestSupport - Cannot invoke "org.apache.maven.project.MavenProject.getProperties()" because "mavenProject" is null
+java.lang.NullPointerException: Cannot invoke "org.apache.maven.project.MavenProject.getProperties()" because "mavenProject" is null
+	at org.eclipse.m2e.jdt.internal.UnitTestSupport.resolveDeferredVariables(UnitTestSupport.java:442)
+	at org.eclipse.m2e.jdt.internal.UnitTestSupport$ConfigurationManager.getTestLaunchArguments(UnitTestSupport.java:416)
+	at org.eclipse.m2e.jdt.internal.UnitTestSupport$ConfigurationManager.getTestLaunchArguments(UnitTestSupport.java:327)
+	at org.eclipse.m2e.jdt.internal.UnitTestSupport$ConfigurationManager.setupLaunchConfiguration(UnitTestSupport.java:251)
+	at org.eclipse.m2e.jdt.internal.UnitTestSupport.setupLaunchConfigurationFromMavenConfiguration(UnitTestSupport.java:182)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationAdded(MavenLaunchConfigurationListener.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:214)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationAdded(LaunchManager.java:1983)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:378)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchShortcut.performLaunch(JUnitLaunchShortcut.java:240)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchShortcut.launch(JUnitLaunchShortcut.java:206)
+	at org.eclipse.jdt.junit.launcher.JUnitLaunchShortcut.launch(JUnitLaunchShortcut.java:129)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:412)
+	at org.eclipse.debug.internal.ui.contextlaunching.ContextRunner.launchShortcut(ContextRunner.java:262)
+	at org.eclipse.debug.internal.ui.contextlaunching.ContextRunner.selectAndLaunch(ContextRunner.java:188)
+	at org.eclipse.debug.internal.ui.contextlaunching.ContextRunner.launch(ContextRunner.java:100)
+	at org.eclipse.debug.ui.actions.AbstractLaunchToolbarAction.runInternal(AbstractLaunchToolbarAction.java:90)
+	at org.eclipse.debug.ui.actions.AbstractLaunchHistoryAction.runWithEvent(AbstractLaunchHistoryAction.java:420)
+	at org.eclipse.ui.internal.PluginAction.runWithEvent(PluginAction.java:229)
+	at org.eclipse.ui.internal.WWinPluginAction.runWithEvent(WWinPluginAction.java:218)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$5(ActionContributionItem.java:454)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4404)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1173)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4202)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3790)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:663)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:570)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+2025-02-11 08:38:56,361 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-11 08:38:56,386 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-11 08:38:56,394 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-11 08:40:18,686 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-11 08:40:18,690 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-11 08:40:18,694 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-11 08:55:12,809 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-11 08:55:12,814 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-11 08:55:12,817 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-18 09:36:14,166 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-19 19:15:29,001 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-19 19:20:33,095 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 19:20:33,126 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 19:20:33,132 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-19 19:21:42,582 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-19 19:21:42,587 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-19 19:21:42,592 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vedan\trash\backend-2\demo\src\test\resources
+2025-02-20 14:24:48,962 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-23 00:56:42,573 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
